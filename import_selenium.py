@@ -4,7 +4,7 @@ from selenium.webdriver.common.by import By
 import time
 
 # Path to your geckodriver
-geckodriver_path = r'C:\Users\agban\Documents\geckodriver-v0.33.0-win64\geckodriver.exe'
+geckodriver_path = r'C:\Users\miller\Documents\geckodriver-v0.33.0-win64\geckodriver.exe'
 
 # Setup WebDriver with Service
 service = Service(geckodriver_path)
